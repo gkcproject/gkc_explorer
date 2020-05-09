@@ -44,7 +44,7 @@ rpcuser=username
 rpcpassword=123456  
 
 上傳explorer_main到服務器  
-# 修改conf/main.toml 默認已經配置好對應的參數  
+#修改conf/main.toml 默認已經配置好對應的參數  
 
 
 啟動後端程序  
